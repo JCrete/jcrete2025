@@ -5,7 +5,7 @@
 | Session # | Time/Room      | Yggdrasil    | Bifrost  | Midgard | Nilfheim  | Valhalla   |   
 |-----------|----------------|--------------|----------|-------- |-----------|------------|
 | 1         | 09:15 - 10:15  | Paving the Java Onramp (Cay Horstmann)    |  Kafka and Streaming (Vik)  | Database Modularity () |           | Mindfulness for stress relief (Chair Yoga)    |
-| 2         | 10:30 - 11:30  | [The Darkside of AI (Alexius Diakogiannis)](Day1/Session2/DarksideOfAI.md) |  Retirement in the era of AI ()  | AI in Education (Cassandra)   | AI Tools to increase productivity (Mohammend) | Surviving the AI era (James) |
+| 2         | 10:30 - 11:30  | [The Darkside of AI (Alexius Diakogiannis)](Day1/Session2/DarksideOfAI.md) |  Retirement in the era of AI ()  | [AI in Education (Cassandra Chin)](Day1/Session2/AI_in_Education.md)   | AI Tools to increase productivity (Mohammend) | Surviving the AI era (James) |
 | 3         | 11:45 - 12:45  | [Project Loom and stuctured concurrency in 2025 (Jose Paumard)](Day1/Session3/StructuredConcurrency.md) |  Mental Health () | Software Supply Chain Security (Andres)      | Java and AI (Zoran) |  How AI shapes interviews (Anna) |
  
 ## Day 2 (05.08.2025)
