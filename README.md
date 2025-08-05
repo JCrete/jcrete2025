@@ -2,7 +2,7 @@
 
 ## Day 1 (04.08.2025)
 
-| Session # | Time/Room      | Yggdrasil    | Bifrost  | Midgard | Nilfheim  | Valhalla   |   
+| Session # | Time/Room      | Main Room    | Bifrost  | Midgard | Nilfheim  | Valhalla   |   
 |-----------|----------------|--------------|----------|-------- |-----------|------------|
 | 1         | 09:15 - 10:15  | Paving the Java Onramp (Cay Horstmann)    |  Kafka and Streaming (Vik)  | Database Modularity () |           | Mindfulness for stress relief (Chair Yoga)    |
 | 2         | 10:30 - 11:30  | [The Darkside of AI (Alexius Diakogiannis)](Day1/Session2/DarksideOfAI.md) |  Retirement in the era of AI ()  | [AI in Education (Cassandra Chin)](Day1/Session2/AI_in_Education.md)   | AI Tools to increase productivity (Mohammend) | Surviving the AI era (James) |
@@ -10,22 +10,22 @@
  
 ## Day 2 (05.08.2025)
 
-| Session # | Time/Room      | Yggdrasil    | Bifrost  | Midgard | Nilfheim  | Valhalla   |   
+| Session # | Time/Room      | Main Room    | Bifrost  | Midgard | Nilfheim  | Valhalla   |   
 |-----------|----------------|--------------|----------|-------- |-----------|------------|
-| 4         | 09:30 - 10:30  |              |          |         |           |            |
-| 5         | 10:45 - 11:45  |              |          |         |           |            |
-| 6         | 12:00 - 13:00  |              |          |         |           |            |
+| 4         | 09:30 - 10:30  | Upgrading Java (Nikolai) | Why should I learn Java in 2025 () | Lifelong hustler vs Lottery Winner (Heinz & Kirk) |           |     -       |
+| 5         | 10:45 - 11:45  | Replicated State Machines () | [AI Mental Model for learning Projects (Peter Lawrey)](Day2/Session2/AI_as_a_Learning_Tool.pdf) | When Greed is Good ()        |           |    -       |
+| 6         | 12:00 - 13:00  |              | PACT Contract Testing () | [AI productivity beyond coding (Foivos)](Day2/Session3/AI_productivity_beyond_coding.md) | How to get started in Open Source ()          |      -      |
 
 ## Day 3 (06.08.2025)
 
-| Session # | Time/Room      | Yggdrasil    | Bifrost  | Midgard | Nilfheim  | Valhalla   |   
+| Session # | Time/Room      | Main Room    | Bifrost  | Midgard | Nilfheim  | Valhalla   |   
 |-----------|----------------|--------------|----------|-------- |-----------|------------|
 | 7         | 14:15 - 15:15  |              |          |         |           |            |
 | 8         | 15:30 - 16:30  |              |          |         |           |            |
 | 9         | 16:45 - 17:45  |              |          |         |           |            |
 
 ## Day 4 (07.08.2025)
-| Session # | Time/Room      | Yggdrasil    | Bifrost  | Midgard | Nilfheim  | Valhalla   |   
+| Session # | Time/Room      | Main Room    | Bifrost  | Midgard | Nilfheim  | Valhalla   |   
 |-----------|----------------|--------------|----------|-------- |-----------|------------|
 | 10        | 09:15 - 10:15  |              |          |         |           |            |
 | 11        | 10:30 - 11:30  |              |          |         |           |            |
