@@ -11,7 +11,7 @@
 ## Day 2 (05.08.2025)
 
 | Session # | Time/Room      | Main Room    | Bifrost  | Nilfheim  | Valhalla   |   
-|-----------|----------------|--------------|----------|-------- |-----------|------------|
+|-----------|----------------|--------------|----------|-------- |-----------|
 | 4         | 09:30 - 10:30  | Upgrading Java (Nikolai) | Why should I learn Java in 2025 () | Lifelong hustler vs Lottery Winner (Heinz & Kirk) | Life after working; what's next (Mary) |
 | 5         | 10:45 - 11:45  | Replicated State Machines (James) | [AI Mental Model for learning (Peter Lawrey)](Day2/Session2/AI_as_a_Learning_Tool.pdf) | When Greed is Good; Gatherers and Strea Performance (Cay Horstmann)  | Literate programming (Felix)          |
 | 6         | 12:00 - 13:00  | Stable Values API (Jose Paumard) | PACT Contract Testing (Dan Haywood) | [AI productivity beyond coding (Foivos)](Day2/Session3/AI_productivity_beyond_coding.md) | How to get started in Open Source (Kaya)          |
