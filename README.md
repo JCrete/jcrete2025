@@ -10,26 +10,26 @@
  
 ## Day 2 (05.08.2025)
 
-| Session # | Time/Room      | Main Room    | Bifrost  | Nilfheim  | Valhalla   |   
-|-----------|----------------|--------------|----------|-------- |-----------|
+| Session # | Time/Room      | Main Room    | Bifrost  | Nilfheim  | Valhalla  |
+|-----------|----------------|--------------|----------|-----------|-----------|
 | 4         | 09:30 - 10:30  | Upgrading Java (Nikolai) | Why should I learn Java in 2025 () | Lifelong hustler vs Lottery Winner (Heinz & Kirk) | Life after working; what's next (Mary) |
 | 5         | 10:45 - 11:45  | Replicated State Machines (James) | [AI Mental Model for learning (Peter Lawrey)](Day2/Session2/AI_as_a_Learning_Tool.pdf) | When Greed is Good; Gatherers and Strea Performance (Cay Horstmann)  | Literate programming (Felix)          |
-| 6         | 12:00 - 13:00  | Stable Values API (Jose Paumard) | PACT Contract Testing (Dan Haywood) | [AI productivity beyond coding (Foivos)](Day2/Session3/AI_productivity_beyond_coding.md) | How to get started in Open Source (Kaya)          |
+| 6         | 12:00 - 13:00  | Stable Values API (Jose Paumard) | PACT Contract Testing (Dan Haywood) | [AI productivity beyond coding (Foivos)](Day2/Session3/AI_productivity_beyond_coding.md) | [How to get started in Open Source (Kaya)](Day2/Session3/start_open_source.md)  |
 
 ## Day 3 (06.08.2025)
 
-| Session # | Time/Room      | Main Room    | Bifrost  | Lunch space | Nilfheim  | Valhalla   |   
-|-----------|----------------|--------------|----------|-------- |-----------|------------|
-| 7         | 14:15 - 15:15  |              |          |         |           |            |
-| 8         | 15:30 - 16:30  |              |          |         |           |            |
-| 9         | 16:45 - 17:45  |              |          |         |           |            |
+| Session # | Time/Room      | Main Room    | Bifrost  | Nilfheim | Valhalla |
+|-----------|----------------|--------------|----------|-------- |-----------|
+| 7         | 14:15 - 15:15  |              |          |         |           |
+| 8         | 15:30 - 16:30  |              |          |         |           |
+| 9         | 16:45 - 17:45  |              |          |         |           |
 
 ## Day 4 (07.08.2025)
-| Session # | Time/Room      | Main Room    | Bifrost  | Lunch space | Nilfheim  | Valhalla   |   
-|-----------|----------------|--------------|----------|-------- |-----------|------------|
-| 10        | 09:15 - 10:15  |              |          |         |           |            |
-| 11        | 10:30 - 11:30  |              |          |         |           |            |
-| 12        | 11:45 - 12:45  |              |          |         |           |            |
+| Session # | Time/Room      | Main Room    | Bifrost  | Nilfheim | Valhalla |
+|-----------|----------------|--------------|----------|-------- |-----------|
+| 10        | 09:15 - 10:15  |              |          |         |           |
+| 11        | 10:30 - 11:30  |              |          |         |           |
+| 12        | 11:45 - 12:45  |              |          |         |           |
 
 ## Day 5 - Hackday (08.08.2025)
 
