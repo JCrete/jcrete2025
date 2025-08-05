@@ -10,11 +10,11 @@
  
 ## Day 2 (05.08.2025)
 
-| Session # | Time/Room      | Main Room    | Bifrost  | Midgard | Nilfheim  | Valhalla   |   
-|-----------|----------------|--------------|----------|-------- |-----------|------------|
-| 4         | 09:30 - 10:30  | Upgrading Java (Nikolai) | Why should I learn Java in 2025 () | Lifelong hustler vs Lottery Winner (Heinz & Kirk) |           |     -       |
-| 5         | 10:45 - 11:45  | Replicated State Machines () | [AI Mental Model for learning Projects (Peter Lawrey)](Day2/Session2/AI_as_a_Learning_Tool.pdf) | When Greed is Good ()        |           |    -       |
-| 6         | 12:00 - 13:00  |              | PACT Contract Testing () | [AI productivity beyond coding (Foivos)](Day2/Session3/AI_productivity_beyond_coding.md) | How to get started in Open Source ()          |      -      |
+| Session # | Time/Room      | Main Room    | Bifrost  | Midgard | Nilfheim                                                                       | Valhalla   |   
+|-----------|----------------|--------------|----------|-------- |--------------------------------------------------------------------------------|------------|
+| 4         | 09:30 - 10:30  | Upgrading Java (Nikolai) | Why should I learn Java in 2025 () | Lifelong hustler vs Lottery Winner (Heinz & Kirk) |                                                                                |     -       |
+| 5         | 10:45 - 11:45  | Replicated State Machines () | [AI Mental Model for learning Projects (Peter Lawrey)](Day2/Session2/AI_as_a_Learning_Tool.pdf) | When Greed is Good ()        |                                                                                |    -       |
+| 6         | 12:00 - 13:00  |              | PACT Contract Testing () | [AI productivity beyond coding (Foivos)](Day2/Session3/AI_productivity_beyond_coding.md) | [How to get started in Open Source (Kaya)](Day2/Session3/start_open_source.md) |      -      |
 
 ## Day 3 (06.08.2025)
 
