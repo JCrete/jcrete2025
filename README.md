@@ -37,7 +37,7 @@
 
 ## Day 6 JCrete4Kids Chania (09.08.2025)
 * [Machine Learning with Phippy (Cassandra Chin)](https://www.phippyai.com/gr/)
-* Treasure Hunting Scratch workshop (Robin de Silva Jayasinghe) - [EN]() - [EL](JCrete4Kids/Treasure_Hunt_Scratch_EL.pdf) - [DE](JCrete4Kids/Schatz_Suche_Scratch_Aufgaben.pdf)
+* Treasure Hunting Scratch workshop (Robin de Silva Jayasinghe) - [EN](JCrete4Kids/Treasure_Hunt_Scratch_en-US.pdf) - [EL](JCrete4Kids/Treasure_Hunt_Scratch_EL.pdf) - [DE](JCrete4Kids/Schatz_Suche_Scratch_Aufgaben.pdf)
 
 ## Photos
 
