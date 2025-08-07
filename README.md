@@ -28,9 +28,9 @@
 ## Day 4 (07.08.2025)
 | Session # | Time/Room      | Main Room    | Side Room | Library | Villa |
 |-----------|----------------|--------------|----------|----------|-------|
-| 10        | 09:15 - 10:15  |              |          |          |       |
-| 11        | 10:30 - 11:30  |              |          |          |       |
-| 12        | 11:45 - 12:45  |              |          |          |       |
+| 10        | 09:15 - 10:15  | AMA Space (Sven Reimers) | Performance testing of distributed databases in the cloud (Anna) | How to keep up to date (Kaya)          | JSON in the JDK (Cay Horstmann)      |
+| 11        | 10:30 - 11:30  | Observability Forum (Ben Evans) | Finding and fixing bugs in the JDK (Heinz Kabutz)         | How to get customers/self funded startup (Grzegorz & al.)         |  War stories (Juana)     |
+| 12        | 11:45 - 12:45  | Quiz 2025 (Jose Paumard) | Programming Moves (Dierk)         | How to fight procrastination (Jens)         |  Writing Tech books (Jason)     |
 
 ## Day 5 - Hackday (08.08.2025)
 
