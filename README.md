@@ -36,7 +36,7 @@
 * JReleaser (Andres Almiray)
 * Maven and exec-maven-plugin (Andres Almiray + Cay Horstmann)
 * Radicle - Peer to peer github collaboration (Yorgos)
-* Java for AI/ML, JTaccuino and Deepnetts and ... (Sven Reimers & Zoran Sevarac & Charles Nutter)
+* [Java for AI/ML, JTaccuino and Deepnetts and ... (Sven Reimers & Zoran Sevarac & Charles Nutter)](HackDay/Java_AI_ML)
 * java.net DNS hacking (John Spurling)
 * Panama Memory API (Jose Paumard)
 * Digital Game Master (Jens)
