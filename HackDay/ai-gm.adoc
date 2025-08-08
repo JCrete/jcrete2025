@@ -1,0 +1,13 @@
+== AI GM
+
+=== Goals
+
+Goal of the project is to create an automated Game Master that can host adventures for a single player.
+
+=== The Real Goals
+
+Really this is about playing around with LLMs, prompting, Spring AI and everything related in order to learn something.
+
+=== References
+
+You can find the project under https://github.com/schauder/ai-gm
