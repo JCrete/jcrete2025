@@ -33,7 +33,19 @@
 | 12        | 11:45 - 12:45  | Quiz 2025 (Jose Paumard) | Programming Moves (Dierk)         | How to fight procrastination (Jens)         |  Writing Tech books (Jason)     |
 
 ## Day 5 - Hackday (08.08.2025)
-
+* JReleaser (Andres Almiray)
+* Maven and exec-maven-plugin (Andres Almiray + Cay Horstmann)
+* Radicle - Peer to peer github collaboration (Yorgos)
+* Java for AI/ML, JTaccuino and Deepnetts and ... (Sven Reimers & Zoran Sevarac & Charles Nutter)
+* java.net DNS hacking (John Spurling)
+* Panama Memory API (Jose Paumard)
+* Digital Game Master (Jens)
+* Benchmarking Valhalla (Cay Horstmann)
+* Retro Java (Marc Hoffmann)
+* GCToolkt fork (Kirk Pepperdine)
+* Building JDK on Windows (Jose Paumard)
+* Agrona/SBE/Aeron hacking (Dmitro Vyazelenko)
+* AI First programming (Steven, Cassandra Chin)
 
 ## Day 6 JCrete4Kids Chania (09.08.2025)
 * [Machine Learning with Phippy (Cassandra Chin)](https://www.phippyai.com/gr/)
