@@ -26,11 +26,11 @@
 
 
 ## Day 4 (07.08.2025)
-| Session # | Time/Room      | Main Room    | Side Room | Library | Villa |
-|-----------|----------------|--------------|----------|----------|-------|
-| 10        | 09:15 - 10:15  | AMA Space (Sven Reimers) | Performance testing of distributed databases in the cloud (Anna) | How to keep up to date (Kaya)          | JSON in the JDK (Cay Horstmann)      |
-| 11        | 10:30 - 11:30  | Observability Forum (Ben Evans) | Finding and fixing bugs in the JDK (Heinz Kabutz)         | How to get customers/self funded startup (Grzegorz & al.)         |  War stories (Juana)     |
-| 12        | 11:45 - 12:45  | Quiz 2025 (Jose Paumard) | Programming Moves (Dierk)         | How to fight procrastination (Jens)         |  Writing Tech books (Jason)     |
+| Session # | Time/Room      | Main Room    | Side Room | Library                                                            | Villa |
+|-----------|----------------|--------------|----------|--------------------------------------------------------------------|-------|
+| 10        | 09:15 - 10:15  | AMA Space (Sven Reimers) | Performance testing of distributed databases in the cloud (Anna) | [How to keep up-to-date with tech (Kaya)](Day4/up_to_date_tech.md) | JSON in the JDK (Cay Horstmann)      |
+| 11        | 10:30 - 11:30  | Observability Forum (Ben Evans) | Finding and fixing bugs in the JDK (Heinz Kabutz)         | How to get customers/self funded startup (Grzegorz & al.)          |  War stories (Juana)     |
+| 12        | 11:45 - 12:45  | Quiz 2025 (Jose Paumard) | Programming Moves (Dierk)         | How to fight procrastination (Jens)                                |  Writing Tech books (Jason)     |
 
 ## Day 5 - Hackday (08.08.2025)
 * JReleaser (Andres Almiray)
@@ -46,6 +46,7 @@
 * Building JDK on Windows (Jose Paumard)
 * Agrona/SBE/Aeron hacking (Dmitro Vyazelenko)
 * AI First programming (Steven, Cassandra Chin)
+* Jetty Open Source contribution (Kaya Weers, Simone Bordet)
 
 ## Day 6 JCrete4Kids Chania (09.08.2025)
 * [Machine Learning with Phippy (Cassandra Chin)](https://www.phippyai.com/gr/)
