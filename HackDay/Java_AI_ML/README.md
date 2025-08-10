@@ -12,7 +12,7 @@ If you want to start learning Data Science, Aritificial Intelligence (AI), Machi
 | Deep learning, neural networks | [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Keras](https://keras.io/) | [TensorFlow Java API](https://www.tensorflow.org/jvm/install), [Deeplearning4j](https://deeplearning4j.konduit.ai/), [DJL](https://djl.ai/), [Tribuo](https://tribuo.org/), [DeepNets](https://www.deepnetts.com/) |
 | Data visualization/charting | [Matplotlib](https://matplotlib.org/)/[Seaborn](https://seaborn.pydata.org/) | [JFreeChart](https://www.jfree.org/jfreechart/), [XChart](https://github.com/knowm/XChart), [Fair-acc/Charts-FX](https://github.com/fair-acc/chart-fx)|
 | Natural language processing | [NLTK](https://www.nltk.org/)/[spaCy](https://spacy.io/) | [Apache OpenNLP](https://opennlp.apache.org/), [Stanford NLP](https://nlp.stanford.edu/), [Mallet](https://mimno.github.io/Mallet/) |
-| Documentation | [Jupyter](https://jupyter.org/) | Jupyter with [IJava](https://github.com/SpencerPark/IJava)/JJava plugin, [JTaccuino](https://github.com/jtaccuino/jtaccuino) | 
+| Documentation | [Jupyter](https://jupyter.org/) | Java plugins for Jupyter: [IJava](https://github.com/SpencerPark/IJava)/[JJava](https://github.com/dflib/jjava) ([more info](https://github.com/jupyter-java)), [JTaccuino](https://github.com/jtaccuino/jtaccuino); a JavaFX standalone solution | 
 
 Books:
 
