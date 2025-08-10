@@ -24,7 +24,6 @@
 
 # Links
 
-* 
 * [Cay Horstmann's Unblog](https://horstmann.com/unblog/2024-10-01/index.html)
 * [Heinz Kabutz](https://www.javaspecialists.eu/archive/Issue326-Stream-Gathering-with-a-Different-Distinct-Function.html) Stream Gathering with a Different Distinct Function
 * [Basel One presentation](https://horstmann.com/presentations/2024/baselone/)

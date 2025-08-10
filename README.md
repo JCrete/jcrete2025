@@ -13,7 +13,7 @@
 | Session # | Time/Room      | Main Room    | Side Room | Library | Villa  |
 |-----------|----------------|--------------|-----------|---------|--------|
 | 4         | 09:30 - 10:30  | Upgrading Java (Nikolai) | Why should I learn Java in 2025 (Theodor) | Lifelong hustler vs Lottery Winner (Heinz & Kirk) | Life after working; what's next (Mary) |
-| 5         | 10:45 - 11:45  | Replicated State Machines (James) | [AI Mental Model for learning (Peter Lawrey)](Day2/Session2/AI_as_a_Learning_Tool.pdf) | [When Greed is Good; Gatherers and Strea Performance (Cay Horstmann)](Day2/Session2/WhenGreedIsGood.md)  | Literate programming (Felix)          |
+| 5         | 10:45 - 11:45  | Replicated State Machines (James) | [AI Mental Model for learning (Peter Lawrey)](Day2/Session2/AI_as_a_Learning_Tool.pdf) | [When Greed is Good; Gatherers and Stream Performance (Cay Horstmann)](Day2/Session2/WhenGreedIsGood.md)  | Literate programming (Felix)          |
 | 6         | 12:00 - 13:00  | Stable Values API (Jose Paumard) | PACT Contract Testing (Dan Haywood) | [AI productivity beyond coding (Foivos)](Day2/Session3/AI_productivity_beyond_coding.md) | [How to get started in Open Source (Kaya)](Day2/Session3/start_open_source.md)  |
 
 ## Day 3 (06.08.2025)
