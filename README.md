@@ -20,7 +20,7 @@
 
 | Session # | Time/Room      | Main Room    | Side Room | Library | Villa |
 |-----------|----------------|--------------|----------|----------|-------|
-| 7         | 14:15 - 15:15  | Low Latency State Machines (Peter Lawrey) | Artificial General Intelligence (Patrycja & Marcus)) | Selling your skills (Viktor D.)  | Mysteries of modern switch revealed (Cay Horstmann)  |
+| 7         | 14:15 - 15:15  | Low Latency State Machines (Peter Lawrey) | Artificial General Intelligence (Patrycja & Marcus)) | Selling your skills (Viktor D.)  | [Mysteries of modern switch revealed (Cay Horstmann)](https://horstmann.com/presentations/2025/jcrete)  |
 | 8         | 15:30 - 16:30  | High Performance Teams (Wojtek) | Retro Java Game Development (Ben Evans) | Minoan Civilization (Marco) | Building & nurturing user communities (JUGs) (AI collective) (Mary)  |
 | 9         | 16:45 - 17:45  | Java in Space (Christina) | Remote Observable Map (Dierk) | Bitcoin (Chris Thalinger)  | Buildings Products and Companies in the Java Ecosystem (Zoran) |
 
@@ -28,7 +28,7 @@
 ## Day 4 (07.08.2025)
 | Session # | Time/Room      | Main Room    | Side Room | Library | Villa |
 |-----------|----------------|--------------|----------|----------|-------|
-| 10        | 09:15 - 10:15  | AMA Space (Sven Reimers) | Performance testing of distributed databases in the cloud (Anna) | How to keep up to date (Kaya)          | JSON in the JDK (Cay Horstmann)      |
+| 10        | 09:15 - 10:15  | AMA Space (Sven Reimers) | Performance testing of distributed databases in the cloud (Anna) | How to keep up to date (Kaya)          | [JSON in the JDK (Cay Horstmann)](Day4/Session1/JSONinTheJDK.md)      |
 | 11        | 10:30 - 11:30  | Observability Forum (Ben Evans) | Finding and fixing bugs in the JDK (Heinz Kabutz)         | How to get customers/self funded startup (Grzegorz & al.)         |  War stories (Juana)     |
 | 12        | 11:45 - 12:45  | Quiz 2025 (Jose Paumard) | Programming Moves (Dierk)         | How to fight procrastination (Jens)         |  Writing Tech books (Jason)     |
 
