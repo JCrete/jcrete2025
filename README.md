@@ -14,7 +14,7 @@
 |-----------|----------------|--------------|-----------|---------|--------|
 | 4         | 09:30 - 10:30  | Upgrading Java (Nikolai) | Why should I learn Java in 2025 (Theodor) | Lifelong hustler vs Lottery Winner (Heinz & Kirk) | Life after working; what's next (Mary) |
 | 5         | 10:45 - 11:45  | Replicated State Machines (James) | [AI Mental Model for learning (Peter Lawrey)](Day2/Session2/AI_as_a_Learning_Tool.pdf) | [When Greed is Good; Gatherers and Stream Performance (Cay Horstmann)](Day2/Session2/WhenGreedIsGood.md)  | Literate programming (Felix)          |
-| 6         | 12:00 - 13:00  | Stable Values API (Jose Paumard) | PACT Contract Testing (Dan Haywood) | [AI productivity beyond coding (Foivos)](Day2/Session3/AI_productivity_beyond_coding.md) | [How to get started in Open Source (Kaya)](Day2/Session3/start_open_source.md)  |
+| 6         | 12:00 - 13:00  | Stable Values API (Jose Paumard) | PACT Contract Testing (Dan Haywood) | [AI productivity beyond coding (Foivos)](Day2/Session3/AI_productivity_beyond_coding.md) | [How to get started in Open Source (Kaya Weers)](Day2/Session3/start_open_source.md)  |
 
 ## Day 3 (06.08.2025)
 
@@ -26,9 +26,10 @@
 
 
 ## Day 4 (07.08.2025)
+
 | Session # | Time/Room      | Main Room    | Side Room | Library | Villa |
 |-----------|----------------|--------------|----------|----------|-------|
-| 10        | 09:15 - 10:15  | AMA Space (Sven Reimers) | Performance testing of distributed databases in the cloud (Anna) | How to keep up to date (Kaya)          | [JSON in the JDK (Cay Horstmann)](Day4/Session1/JSONinTheJDK.md)      |
+| 10        | 09:15 - 10:15  | AMA Space (Sven Reimers) | Performance testing of distributed databases in the cloud (Anna) | [How to keep up-to-date with tech (Kaya Weers)](Day4/Session1/up_to_date_tech.md)  | [JSON in the JDK (Cay Horstmann)](Day4/Session1/JSONinTheJDK.md)      |
 | 11        | 10:30 - 11:30  | Observability Forum (Ben Evans) | Finding and fixing bugs in the JDK (Heinz Kabutz)         | How to get customers/self funded startup (Grzegorz & al.)         |  War stories (Juana)     |
 | 12        | 11:45 - 12:45  | Quiz 2025 (Jose Paumard) | Programming Moves (Dierk)         | How to fight procrastination (Jens)         |  Writing Tech books (Jason)     |
 
@@ -46,6 +47,7 @@
 * Building JDK on Windows (Jose Paumard)
 * Agrona/SBE/Aeron hacking (Dmitro Vyazelenko)
 * AI First programming (Steven, Cassandra Chin)
+* Jetty Open Source contribution (Kaya Weers, Simone Bordet)
 
 ## Day 6 JCrete4Kids Chania (09.08.2025)
 * [Machine Learning with Phippy (Cassandra Chin)](https://www.phippyai.com/gr/)
