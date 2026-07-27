@@ -1,74 +1,40 @@
-# JCrete 2025 Material
+# JCrete 2026
 
-## Day 1 (04.08.2025)
+## Day 1 (27.07.2026)
 
-| Session # | Time/Room      | Main Room    | Side Room | Lunch space | Library  | Villa   |   
+| Session # | Time/Room      | Main Room    | MX | MS | Library  | In   | Out |
 |-----------|----------------|--------------|-----------|-------- |-----------|------------|
-| 1         | 09:15 - 10:15  | [Paving the Java Onramp (Cay Horstmann)](Day1/Session1/PavingTheOnRamp.md)    |  Kafka and Streaming (Vik)  | Database Modularity () |           | Mindfulness for stress relief (Chair Yoga)    |
-| 2         | 10:30 - 11:30  | [The Darkside of AI (Alexius Diakogiannis)](Day1/Session2/DarksideOfAI.md) |  Retirement in the era of AI ()  | [AI in Education (Cassandra Chin)](Day1/Session2/AI_in_Education.md)   | AI Tools to increase productivity (Mohammend) | Surviving the AI era (James) |
-| 3         | 11:45 - 12:45  | [Project Loom and stuctured concurrency in 2025 (Jose Paumard)](Day1/Session3/StructuredConcurrency.md) |  Mental Health () | Software Supply Chain Security (Andres)      | Java and AI (Zoran) |  How AI shapes interviews (Anna) |
- 
-## Day 2 (05.08.2025)
+| 1         | 09:30 - 10:30  |  | | | | |
+| 2         | 10:30 - 11:30  |
+| 3         | 11:45 - 12:45  | 
 
-| Session # | Time/Room      | Main Room    | Side Room | Library | Villa  |
+## Day 2 (28.07.2026)
+
+| Session # | Time/Room      | Main Room    | MX | MS | Library  | In   | Out |
 |-----------|----------------|--------------|-----------|---------|--------|
-| 4         | 09:30 - 10:30  | Upgrading Java (Nikolai) | Why should I learn Java in 2025 (Theodor) | Lifelong hustler vs Lottery Winner (Heinz & Kirk) | Life after working; what's next (Mary) |
-| 5         | 10:45 - 11:45  | Replicated State Machines (James) | [AI Mental Model for learning (Peter Lawrey)](Day2/Session2/AI_as_a_Learning_Tool.pdf) | [When Greed is Good; Gatherers and Stream Performance (Cay Horstmann)](Day2/Session2/WhenGreedIsGood.md)  | Literate programming (Felix)          |
-| 6         | 12:00 - 13:00  | Stable Values API (Jose Paumard) | PACT Contract Testing (Dan Haywood) | [AI productivity beyond coding (Foivos)](Day2/Session3/AI_productivity_beyond_coding.md) | [How to get started in Open Source (Kaya Weers)](Day2/Session3/start_open_source.md)  |
+| 4         | 09:30 - 10:30  |  | | | | |
+| 5         | 10:30 - 11:30  |
+| 6         | 11:45 - 12:45  | 
 
-## Day 3 (06.08.2025)
+## Day 3 (29.07.2026)
 
-| Session # | Time/Room      | Main Room    | Side Room | Library | Villa |
-|-----------|----------------|--------------|----------|----------|-------|
-| 7         | 14:15 - 15:15  | Low Latency State Machines (Peter Lawrey) | Artificial General Intelligence (Patrycja & Marcus)) | Selling your skills (Viktor D.)  | [Mysteries of modern switch revealed (Cay Horstmann)](https://horstmann.com/presentations/2025/jcrete)  |
-| 8         | 15:30 - 16:30  | High Performance Teams (Wojtek) | Retro Java Game Development (Ben Evans) | Minoan Civilization (Marco) | Building & nurturing user communities (JUGs) (AI collective) (Mary)  |
-| 9         | 16:45 - 17:45  | Java in Space (Christina) | Remote Observable Map (Dierk) | Bitcoin (Chris Thalinger)  | Buildings Products and Companies in the Java Ecosystem (Zoran) |
+| Session # | Time/Room      | Main Room    | MX | MS | Library  | In   | Out |
+|-----------|----------------|--------------|-----------|---------|--------|
+| 7         | 09:30 - 10:30  |  | | | | |
+| 8         | 10:30 - 11:30  |
+| 9         | 11:45 - 12:45  | 
 
+## Day 4 (30.07.2026)
 
-## Day 4 (07.08.2025)
+| Session # | Time/Room      | Main Room    | MX | MS | Library  | In   | Out |
+|-----------|----------------|--------------|-----------|---------|--------|
+| 10        | 14:15 - 15:15  |  | | | | |
+| 11        | 15:30 - 16:30  |
+| 12        | 16:45 - 17:45  | 
 
-| Session # | Time/Room      | Main Room    | Side Room | Library | Villa |
-|-----------|----------------|--------------|----------|----------|-------|
-| 10        | 09:15 - 10:15  | AMA Space (Sven Reimers) | Performance testing of distributed databases in the cloud (Anna) | [How to keep up-to-date with tech (Kaya Weers)](Day4/Session1/up_to_date_tech.md)  | [JSON in the JDK (Cay Horstmann)](Day4/Session1/JSONinTheJDK.md)      |
-| 11        | 10:30 - 11:30  | Observability Forum (Ben Evans) | Finding and fixing bugs in the JDK (Heinz Kabutz)         | How to get customers/self funded startup (Grzegorz & al.)         |  War stories (Juana)     |
-| 12        | 11:45 - 12:45  | Quiz 2025 (Jose Paumard) | Programming Moves (Dierk)         | How to fight procrastination (Jens)         |  Writing Tech books (Jason)     |
+## Day 5 - Hackday (31.07.2026)
+*
 
-## Day 5 - Hackday (08.08.2025)
-* JReleaser (Andres Almiray)
-* Maven and exec-maven-plugin (Andres Almiray + Cay Horstmann)
-* Radicle - Peer to peer github collaboration (Yorgos)
-* [Java for AI/ML, JTaccuino and Deepnetts and ... (Sven Reimers & Zoran Sevarac & Charles Nutter)](HackDay/Java_AI_ML)
-* java.net DNS hacking (John Spurling)
-* Panama Memory API (Jose Paumard)
-* Digital Game Master (Jens)
-* Benchmarking Valhalla (Cay Horstmann)
-* Retro Java (Marc Hoffmann)
-* GCToolkt fork (Kirk Pepperdine)
-* Building JDK on Windows (Jose Paumard)
-* Agrona/SBE/Aeron hacking (Dmitro Vyazelenko)
-* AI First programming (Steven, Cassandra Chin)
-* Jetty Open Source contribution (Kaya Weers, Simone Bordet)
-
-## Day 6 JCrete4Kids Chania (09.08.2025)
+## Day 6 JCrete4Kids Chania (01.08.2026)
 * [Machine Learning with Phippy (Cassandra Chin)](https://www.phippyai.com/gr/)
-* Treasure Hunting Scratch workshop (Robin de Silva Jayasinghe) - [EN](JCrete4Kids/Treasure_Hunt_Scratch_en-US.pdf) - [EL](JCrete4Kids/Treasure_Hunt_Scratch_EL.pdf) - [DE](JCrete4Kids/Schatz_Suche_Scratch_Aufgaben.pdf)
-
-## Photos
-
-* Feedback, Session Pictures, Whiteboard Notes, Schedule
-    * Please grab the Whiteboard Notes, copy/upload somewhere stable and link them from the schedule
-
-## Blogs
-
-* 
-
-
-## Adding Materials
-
-Please create a subfolder with a short title of your session without special characters and spaces under the folder for the day. If you have only text, markdown is preferred. Then please add a link to the schedule.
-
-Please create a README.md in that folder, saying who was the convenor of the session.
-
-If you don't want to add the materials directly because you already have them available elsewhere you can just link them from the schedule.
-
-## LICENSE:  [Attribution-ShareAlike CC BY-SA](https://creativecommons.org/licenses/)
+* Vibe Coding and Smart Coding with Java (Cay Horstmann & Kaitlyn Hornbuckle)
